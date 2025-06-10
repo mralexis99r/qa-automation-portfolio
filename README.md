@@ -7,7 +7,7 @@ This space showcases my hands-on work using **Playwright + TypeScript** for auto
 
 ## 🧪 Projects
 
-### 🔹 Booking.com Automation (in progress ✅)
+### 🔹 [Booking.com Automation](https://github.com/mralexis99r/Booking-automation) (in progress ✅)
 Testing hotel search, result filters, and booking UI interactions.  
 **Stack**: Playwright, TypeScript, JSON (DDT), GitHub Actions
 
